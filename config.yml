@@ -1,0 +1,2 @@
+UseProxy: False # True if you wanna use proxy.
+Proxy: "" # Resi proxy.
